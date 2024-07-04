@@ -1,5 +1,5 @@
 
-# Benchari Khaoula - Software Engineer
+# AYADI Achraf - Software Engineer
 
 
 
@@ -11,9 +11,9 @@
 As a software engineer with over three years of experience, I specialize in .NET technologies. I have a strong passion for developing innovative solutions that solve real-world problems and enhance user experiences. My expertise lies in collaborating with cross-functional teams to design and develop complex software systems for clients in various industries. I am always eager to expand my knowledge and stay current with the latest IT trends and best practices.
 
   *How to reach me* 📫
- * 🌐  Visit [My Portfolio](https://khaoula1305.github.io/) for complete background and contact.
- * ✉️  [Email](khaoulabenchari9@gmail.com)
- *  <a href="https://www.linkedin.com/in/khaoula1305" target="_blank"><img alt="khaoula1305's LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+ * 🌐  Visit [My Portfolio](https://MaxInformatique.github.io/) for complete background and contact.
+ * ✉️  [Email](cmh.achraf.ayadi@gmail.com)
+ *  <a href="https://www.linkedin.com/in/achraf-ayadi-developer/" target="_blank"><img alt="khaoula1305's LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 Feel free to connect with me for opportunities in software development, collaborations, or to discuss the latest trends in technology!
 
@@ -97,7 +97,7 @@ Feel free to connect with me for opportunities in software development, collabor
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoula1305&layout=compact)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaoula1305&theme=github_dark)
 
-![Khaoula's github stats](https://github-readme-stats.vercel.app/api?username=khaoula1305&show_icons=true&theme=radical)
+![Achraf's github stats](https://github-readme-stats.vercel.app/api?username=khaoula1305&show_icons=true&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khaoula1305&theme=github_dark)
 
 
